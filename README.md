@@ -1,1 +1,1 @@
-![rabbits2](./resource/rabbits2.png)
+![rabbits2](./resource/rabbits3.gif)
